@@ -104,11 +104,10 @@ To run the project, execute the following command: Run SQL commands in queries.s
 - Twitter: [@ramgt001](https://twitter.com/ramgt001)
 - LinkedIn: [Tshepo Gladwin Ramantso](https://www.linkedin.com/in/tshepo-ramantso-b6a35433/)
 
-👤 **Fickry Bil Iman**
+👤 **Eric Delali Mawudeku**
 
-- GitHub: [@fickryiman](https://github.com/fickryiman)
-- Facebook: [@fickry.bil.iman](https://web.facebook.com/fickry.bil.iman?_rdc=1&_rdr)
-- LinkedIn: [fickry-bil-iman](https://www.linkedin.com/in/fickry-bil-iman/)
+- GitHub: [@erickma1](https://github.com/erickma1)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
