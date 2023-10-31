@@ -47,3 +47,10 @@ CREATE TABLE medical_records(
     CONSTRAINT medical_records_fkey FOREIGN KEY(medical_histories_id) REFERENCES medical_histories(id),
     CONSTRAINT treatments_fkey FOREIGN KEY(treatment_id) REFERENCES treatments(id)
 );
+
+CREATE INDEX patient_index ON medical_histories(patient_id);
+CREATE INDEX invoice_item_index ON invoice_items(invoice_id);
+CREATE INDEX treatment_index ON invoice_items(treatment_id);
+CREATE INDEX invoices_index ON invoices(medical_histories_id);
+CREATE INDEX medical_history_id_index ON medical_records(medical_histories_id);
+CREATE INDEX treatment_id_index ON medical_records(treatment_id);
